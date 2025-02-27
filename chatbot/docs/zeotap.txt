@@ -1,0 +1,9 @@
+ZEOTAP DOCUMENTATION SNIPPET
+----------------------------
+How to Integrate Your Data with Zeotap:
+
+1. Log in to Zeotap at https://docs.zeotap.com/.
+2. Navigate to the “Integrations” section.
+3. Select your data source type (e.g., CSV, Amazon S3).
+4. Provide the required credentials or connection details.
+5. Zeotap will begin ingesting your data for further processing and audience building.

@@ -1,0 +1,11 @@
+<html>
+<head><title>CDP Chatbot</title></head>
+<body>
+  <h1>CDP Chatbot</h1>
+  <form method="POST" action="/api/search/">
+    {% csrf_token %}
+    <input type="text" name="query" placeholder="Enter your question" />
+    <button type="submit">Ask</button>
+  </form>
+</body>
+</html>

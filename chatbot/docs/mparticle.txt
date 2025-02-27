@@ -1,0 +1,9 @@
+MPARTICLE DOCUMENTATION SNIPPET
+-------------------------------
+How to Create a User Profile in mParticle:
+
+1. Log in to your mParticle account at https://app.mparticle.com/.
+2. Go to “Audience” in the dashboard.
+3. Click “Create Audience” and define your criteria (e.g., user attributes, event data).
+4. Save the audience and assign a name.
+5. mParticle will automatically create a user profile segment based on these rules.

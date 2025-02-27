@@ -1,0 +1,12 @@
+SEGMENT DOCUMENTATION SNIPPET
+-----------------------------
+How to Set Up a New Source in Segment:
+
+1. Log in to your Segment account at https://segment.com/.
+2. Navigate to the “Sources” tab on the left-hand menu.
+3. Click “Add Source” and select the platform (e.g., Website, Mobile).
+4. Provide a name and description for your new source.
+5. Follow the on-screen instructions to complete setup.
+
+After creating a new source, Segment will begin collecting data from that source. 
+Make sure to add any integrations you need in the “Destinations” section.
